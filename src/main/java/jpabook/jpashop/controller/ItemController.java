@@ -74,4 +74,4 @@ public class ItemController {
     }
 }
     //실무에서는 맴버가 아이템에 대한 권한이 있는지 체크하는 로직 필요
-}
+
