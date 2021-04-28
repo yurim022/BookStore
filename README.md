@@ -1,4 +1,4 @@
-# springboot-jpa-h2-mvc-project
+# Springboot-Jpa-H2-MVC-project
 
 ## 요구사항
 ### 회원 기능
