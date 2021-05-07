@@ -19,3 +19,18 @@
 
 ## Class Diagram
 ![image](https://user-images.githubusercontent.com/45115557/107848848-21d99c00-6e3a-11eb-9668-edfcb098cb7a.png)
+
+
+## Capture of Executing Program
+
+
+## learn 
+* mvc 
+* service--controller-repository-domain architecture
+* Model-View-Controller
+* API
+* aop
+* test with junit
+* repository using Jdbc, Memory, Jpa
+* spring bean (configuration)
+
