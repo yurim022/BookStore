@@ -23,9 +23,9 @@
 
 ## Capture of Executing Program
 
++ main page
 <img width="801" alt="스크린샷 2021-05-07 오후 3 40 05" src="https://user-images.githubusercontent.com/45115557/117411701-d45b5f80-af4e-11eb-8c5c-e8d564efcd58.png">
 
-<img width="1792" alt="스크린샷 2021-05-07 오후 3 44 06" src="https://user-images.githubusercontent.com/45115557/117411723-dcb39a80-af4e-11eb-9cc6-eeb499804919.png">
 
 <img width="846" alt="스크린샷 2021-05-07 오후 3 44 17" src="https://user-images.githubusercontent.com/45115557/117411740-e2a97b80-af4e-11eb-8460-ed110c958492.png">
 
