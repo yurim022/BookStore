@@ -23,10 +23,10 @@
 
 ## Capture of Executing Program
 
-+ main page
++ Main Page
 <img width="801" alt="스크린샷 2021-05-07 오후 3 40 05" src="https://user-images.githubusercontent.com/45115557/117411701-d45b5f80-af4e-11eb-8c5c-e8d564efcd58.png">
 
-
++ Join Member
 <img width="846" alt="스크린샷 2021-05-07 오후 3 44 17" src="https://user-images.githubusercontent.com/45115557/117411740-e2a97b80-af4e-11eb-8460-ed110c958492.png">
 
 <img width="801" alt="스크린샷 2021-05-07 오후 3 45 32" src="https://user-images.githubusercontent.com/45115557/117411751-e76e2f80-af4e-11eb-8606-f7507636f79d.png">
