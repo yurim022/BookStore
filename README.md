@@ -37,8 +37,10 @@
 
 <img width="768" alt="스크린샷 2021-05-07 오후 3 49 46" src="https://user-images.githubusercontent.com/45115557/117411777-efc66a80-af4e-11eb-9dca-3264638b021e.png">
 
+### Search Orderlist By Member, OrderStatus = ORDER
 <img width="802" alt="스크린샷 2021-05-07 오후 3 51 24" src="https://user-images.githubusercontent.com/45115557/117411793-f359f180-af4e-11eb-980c-59818d64e60e.png">
 
+### Search Orderlist By Member, OrderStatus = CANCEL
 <img width="799" alt="스크린샷 2021-05-07 오후 3 52 09" src="https://user-images.githubusercontent.com/45115557/117411815-f8b73c00-af4e-11eb-9d5f-4def01d152b8.png">
 
 
