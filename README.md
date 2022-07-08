@@ -1,5 +1,4 @@
-# Springboot-Jpa-H2-MVC-project
-
+# BookStore
 ## Develop Environment
 ![image](https://user-images.githubusercontent.com/45115557/116434374-54196800-a885-11eb-848a-d5e60dc20d6f.png)
 
